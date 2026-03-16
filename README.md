@@ -8,4 +8,3 @@ I'm a results-driven professional with experience in data integration, reporting
 🔍 My focus lies in transforming raw data into meaningful stories, improving data quality, and building scalable reporting solutions for operational and compliance needs.
 
 
-I love my work
