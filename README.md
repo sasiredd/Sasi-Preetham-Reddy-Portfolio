@@ -8,7 +8,7 @@ I'm a results-driven professional with experience in data integration, reporting
 🔍 My focus lies in transforming raw data into meaningful stories, improving data quality, and building scalable reporting solutions for operational and compliance needs.
 
 ### 🛠️ Tools & Skills
-SQL • SSIS •Power BI • SSRS • Excel • Python • DAX • SDLC • Data Governance • Tabular Editor • Git • Agile • Service Now • JIRA • Visual Studio • TFS
+SQL • Excel • Python • SDLC • Data Governance • Tabular Editor • Git • Visual Studio 
 
 ---
 
