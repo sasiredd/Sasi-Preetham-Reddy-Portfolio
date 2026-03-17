@@ -16,12 +16,10 @@ This portfolio highlights selected academic and personal projects demonstrating 
 
 ---
 
-## Project 1: Sentiment Analysis for Service Quality – Holiday Inn Hotels (Python)
+## Project 1:Crop Yield Prediction and Recommendation System
 
-
-- Conducted web scraping of hotel reviews from selected Ontario regions.
-- Performed sentiment analysis and service classification using Python and Google NLP API.
-- Created a service quality report with Power BI dashboards highlighting areas for improvement.
+This project focuses on predicting crop yield using machine learning techniques and providing data-driven recommendations for optimal crop selection. It analyzes factors such as weather conditions, soil characteristics, and regional patterns to improve agricultural productivity and decision-making.
+- https://github.com/sasiredd/capstone
 
 ---
 
