@@ -25,7 +25,7 @@ This portfolio highlights selected academic and personal projects demonstrating 
 
 ---
 
-## Project 2: Tableau
+## Project 2:Beverage Sales Performance Analysis(Tableau)
 
 
 - Developed a Tableau dashboard to analyze beverage sales data, uncovering insights on product trends, regional performance, and revenue pattern.
