@@ -29,6 +29,7 @@ This portfolio highlights selected academic and personal projects demonstrating 
 
 
 - Developed a Tableau dashboard to analyze beverage sales data, uncovering insights on product trends, regional performance, and revenue pattern.
+- LINK:https://github.com/sasiredd/Tableau
 
 ---
 
