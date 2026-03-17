@@ -28,8 +28,7 @@ This portfolio highlights selected academic and personal projects demonstrating 
 ## Project 2: Tableau
 
 
-- Developed interactive dashboards using Power BI with filters, KPIs, trendlines, and segment analysis.
-- Delivered insights on regional performance, sales trends, shipping impact, and product category profitability.
+- Developed a Tableau dashboard to analyze beverage sales data, uncovering insights on product trends, regional performance, and revenue pattern.
 
 ---
 
